@@ -12,3 +12,6 @@ https://typelevel.org/cats/datatypes/freemonad.html
 
 #scala for comprehension translation
 https://medium.com/wix-engineering/scala-comprehending-the-for-comprehension-67c9f7953655
+
+#unit testing in scala zio and sbt
+https://medium.com/@wiemzin/get-started-with-zio-test-7a27da355498
