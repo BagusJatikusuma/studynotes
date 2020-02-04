@@ -9,3 +9,6 @@ https://medium.com/@wiemzin/zio-with-http4s-and-doobie-952fba51d089
 
 #Free Monad definition and example in scala cats effect
 https://typelevel.org/cats/datatypes/freemonad.html
+
+#scala for comprehension translation
+https://medium.com/wix-engineering/scala-comprehending-the-for-comprehension-67c9f7953655
