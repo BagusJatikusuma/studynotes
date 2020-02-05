@@ -18,3 +18,7 @@ https://medium.com/@wiemzin/get-started-with-zio-test-7a27da355498
 
 #identify side effect
 http://blog.leifbattermann.de/2020/02/03/identify-side-effects-and-refactor-fearlessly/
+
+#edit multiple files without tmux in vim, cause tmux consumes memory too much when working with lsp
+https://unix.stackexchange.com/questions/27586/how-can-i-edit-multiple-files-in-vim
+https://www.ostechnix.com/how-to-edit-multiple-files-using-vim-editor/
