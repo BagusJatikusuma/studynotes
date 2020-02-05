@@ -15,3 +15,6 @@ https://medium.com/wix-engineering/scala-comprehending-the-for-comprehension-67c
 
 #unit testing in scala zio and sbt
 https://medium.com/@wiemzin/get-started-with-zio-test-7a27da355498
+
+#identify side effect
+http://blog.leifbattermann.de/2020/02/03/identify-side-effects-and-refactor-fearlessly/
