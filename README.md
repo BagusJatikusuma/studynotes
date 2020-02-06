@@ -22,3 +22,6 @@ http://blog.leifbattermann.de/2020/02/03/identify-side-effects-and-refactor-fear
 #edit multiple files without tmux in vim, cause tmux consumes memory too much when working with lsp
 https://unix.stackexchange.com/questions/27586/how-can-i-edit-multiple-files-in-vim
 https://www.ostechnix.com/how-to-edit-multiple-files-using-vim-editor/
+
+#multiple environment scala zio
+https://blog.jdriven.com/2019/10/functional-dependency-injection-in-scala-using-zio-environments/
