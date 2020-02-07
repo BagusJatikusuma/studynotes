@@ -25,3 +25,6 @@ https://www.ostechnix.com/how-to-edit-multiple-files-using-vim-editor/
 
 #multiple environment scala zio
 https://blog.jdriven.com/2019/10/functional-dependency-injection-in-scala-using-zio-environments/
+
+#principle concurrency and parallelism in java
+https://javarevisited.blogspot.com/2016/06/5-books-to-learn-concurrent-programming-multithreading-java.html
