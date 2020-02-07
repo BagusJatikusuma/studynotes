@@ -28,3 +28,6 @@ https://blog.jdriven.com/2019/10/functional-dependency-injection-in-scala-using-
 
 #principle concurrency and parallelism in java
 https://javarevisited.blogspot.com/2016/06/5-books-to-learn-concurrent-programming-multithreading-java.html
+
+#how scala for-comprehension works
+https://medium.com/wix-engineering/scala-comprehending-the-for-comprehension-67c9f7953655
