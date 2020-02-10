@@ -31,3 +31,6 @@ https://javarevisited.blogspot.com/2016/06/5-books-to-learn-concurrent-programmi
 
 #how scala for-comprehension works
 https://medium.com/wix-engineering/scala-comprehending-the-for-comprehension-67c9f7953655
+
+#discussion about exception and why its evil
+https://pedrorijo.com/blog/scala-exceptions/
