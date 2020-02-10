@@ -34,3 +34,6 @@ https://medium.com/wix-engineering/scala-comprehending-the-for-comprehension-67c
 
 #discussion about exception and why its evil
 https://pedrorijo.com/blog/scala-exceptions/
+
+#copare java try and scala try, and why scala try better
+https://blog.softwaremill.com/exceptions-no-just-try-them-off-497984eb470d
