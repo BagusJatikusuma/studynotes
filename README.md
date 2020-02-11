@@ -37,3 +37,7 @@ https://pedrorijo.com/blog/scala-exceptions/
 
 #copare java try and scala try, and why scala try better
 https://blog.softwaremill.com/exceptions-no-just-try-them-off-497984eb470d
+
+#URI Format Protocol
+https://tools.ietf.org/html/rfc3986#section-2.4
+
