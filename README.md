@@ -49,3 +49,6 @@ https://stackoverflow.com/questions/22725960/evaluate-all-javascript-in-html-to-
 
 #java and openvpn
 https://stackoverflow.com/questions/46620546/start-openvpn-from-java-application
+
+#avoid scraping blocking
+https://stackoverflow.com/questions/46620546/start-openvpn-from-java-application
