@@ -44,3 +44,6 @@ https://tools.ietf.org/html/rfc3986#section-2.4
 #scrape google trick
 https://stackoverflow.com/questions/22657548/is-it-ok-to-scrape-data-from-google-results?noredirect=1&lq=1
 
+#htmlunit example
+https://stackoverflow.com/questions/22725960/evaluate-all-javascript-in-html-to-get-final-html-document-java
+
