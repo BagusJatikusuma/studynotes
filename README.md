@@ -47,3 +47,5 @@ https://stackoverflow.com/questions/22657548/is-it-ok-to-scrape-data-from-google
 #htmlunit example
 https://stackoverflow.com/questions/22725960/evaluate-all-javascript-in-html-to-get-final-html-document-java
 
+#java and openvpn
+https://stackoverflow.com/questions/46620546/start-openvpn-from-java-application
