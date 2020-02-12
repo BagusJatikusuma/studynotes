@@ -52,3 +52,6 @@ https://stackoverflow.com/questions/46620546/start-openvpn-from-java-application
 
 #avoid scraping blocking
 https://stackoverflow.com/questions/46620546/start-openvpn-from-java-application
+
+#the difference between stream and buffer
+https://stackoverflow.com/questions/43935608/difference-between-buffer-stream-in-c-sharp/43935808#43935808
