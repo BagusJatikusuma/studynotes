@@ -55,3 +55,6 @@ https://stackoverflow.com/questions/46620546/start-openvpn-from-java-application
 
 #the difference between stream and buffer
 https://stackoverflow.com/questions/43935608/difference-between-buffer-stream-in-c-sharp/43935808#43935808
+
+#singleton in zio with ref, can it used for communication between fiber??
+https://blog.jdriven.com/2019/11/using-zio-s-ref-to-ensure-a-singleton-in-the-environment/
