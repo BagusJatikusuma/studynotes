@@ -58,3 +58,6 @@ https://stackoverflow.com/questions/43935608/difference-between-buffer-stream-in
 
 #singleton in zio with ref, can it used for communication between fiber??
 https://blog.jdriven.com/2019/11/using-zio-s-ref-to-ensure-a-singleton-in-the-environment/
+
+#STM with zio
+https://freskog.github.io/blog/2019/05/30/explore-zio-stm/
