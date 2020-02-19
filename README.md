@@ -61,3 +61,6 @@ https://blog.jdriven.com/2019/11/using-zio-s-ref-to-ensure-a-singleton-in-the-en
 
 #STM with zio
 https://freskog.github.io/blog/2019/05/30/explore-zio-stm/
+
+#async scala maybe fundamental
+https://blog.colinbreck.com/calling-blocking-code-there-is-no-free-lunch/
