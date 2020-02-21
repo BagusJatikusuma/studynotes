@@ -64,3 +64,6 @@ https://freskog.github.io/blog/2019/05/30/explore-zio-stm/
 
 #async scala maybe fundamental
 https://blog.colinbreck.com/calling-blocking-code-there-is-no-free-lunch/
+
+#from zio creator about thread/fiber leak
+https://gitter.im/ZIO/Core?at=5cd9c893b149ca509887104f
