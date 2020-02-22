@@ -74,3 +74,5 @@ https://medium.com/rahasak/doobie-and-cats-effects-d01230be5c38
 #lifting zio effect to cats IO and Doobie ConnectionIO, use ctrl + f and insert "Doobie knows how to lift a cats.effect.IO into a ConnectionIO"
 https://gitter.im/ZIO/Core?at=5d984395940b4c2fc07a64cc
 
+#Doobie Rollback Transaction
+https://github.com/tpolecat/doobie/issues/535
