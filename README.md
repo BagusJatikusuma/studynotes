@@ -76,3 +76,6 @@ https://gitter.im/ZIO/Core?at=5d984395940b4c2fc07a64cc
 
 #Doobie Rollback Transaction
 https://github.com/tpolecat/doobie/issues/535
+
+#why rust success as programming language
+https://www.reddit.com/r/rust/comments/abm6hy/why_rust_is_successful_compared_with/
