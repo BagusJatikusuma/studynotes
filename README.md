@@ -82,3 +82,6 @@ https://www.reddit.com/r/rust/comments/abm6hy/why_rust_is_successful_compared_wi
 
 #scala vs java performance comparison, see mark lewis answer
 https://www.quora.com/Is-Scala-faster-than-Java
+
+#why scala is not popular
+https://contributors.scala-lang.org/t/what-can-make-scala-more-popular/2995/6
