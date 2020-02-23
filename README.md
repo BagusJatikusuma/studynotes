@@ -79,3 +79,6 @@ https://github.com/tpolecat/doobie/issues/535
 
 #why rust success as programming language
 https://www.reddit.com/r/rust/comments/abm6hy/why_rust_is_successful_compared_with/
+
+#scala vs java performance comparison, see mark lewis answer
+https://www.quora.com/Is-Scala-faster-than-Java
