@@ -85,3 +85,6 @@ https://www.quora.com/Is-Scala-faster-than-Java
 
 #why scala is not popular
 https://contributors.scala-lang.org/t/what-can-make-scala-more-popular/2995/6
+
+#Http2, gRPC and obsolet of websocket
+https://stackoverflow.com/questions/28582935/does-http-2-make-websockets-obsolete
