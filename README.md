@@ -89,4 +89,7 @@ https://contributors.scala-lang.org/t/what-can-make-scala-more-popular/2995/6
 #Http2, gRPC and obsolet of websocket
 https://stackoverflow.com/questions/28582935/does-http-2-make-websockets-obsolete
 
-#example finch scala future
+#custom derived json circe
+https://stackoverflow.com/questions/42068680/circe-and-scalas-enumeration-type
+
+
