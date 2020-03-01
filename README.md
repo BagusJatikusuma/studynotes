@@ -92,4 +92,7 @@ https://stackoverflow.com/questions/28582935/does-http-2-make-websockets-obsolet
 #custom derived json circe
 https://stackoverflow.com/questions/42068680/circe-and-scalas-enumeration-type
 
+#facebook/ig photo prevuew and youtube streaming
+https://engineering.fb.com/android/the-technology-behind-preview-photos/
+https://medium.com/canal-tech/how-video-streaming-works-on-the-web-an-introduction-7919739f7e1
 
