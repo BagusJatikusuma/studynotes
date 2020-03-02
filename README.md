@@ -96,3 +96,6 @@ https://stackoverflow.com/questions/42068680/circe-and-scalas-enumeration-type
 https://engineering.fb.com/android/the-technology-behind-preview-photos/
 https://medium.com/canal-tech/how-video-streaming-works-on-the-web-an-introduction-7919739f7e1
 
+#JWT documents
+http://self-issued.info/docs/draft-ietf-oauth-v2-bearer.html
+
