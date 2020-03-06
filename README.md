@@ -99,3 +99,7 @@ https://medium.com/canal-tech/how-video-streaming-works-on-the-web-an-introducti
 #JWT documents
 http://self-issued.info/docs/draft-ietf-oauth-v2-bearer.html
 
+#handle error in finch, ctrl+f 'While having encoder defined in terms of generic Exception, nothing stops your from pattern-matching on an exception type and encoding it according to its type.'
+https://gitter.im/finagle/finch?at=5ac4f235e4ff28713aa939e7
+
+
