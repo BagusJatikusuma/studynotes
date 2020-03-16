@@ -102,4 +102,14 @@ http://self-issued.info/docs/draft-ietf-oauth-v2-bearer.html
 #handle error in finch, ctrl+f 'While having encoder defined in terms of generic Exception, nothing stops your from pattern-matching on an exception type and encoding it according to its type.'
 https://gitter.im/finagle/finch?at=5ac4f235e4ff28713aa939e7
 
+https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/
+
+===================================== STORY ===============================================================================
+https://adrianfilip.com/2020/03/15/spring-to-zio-101/amp/
+https://blog.knoldus.com/finagle-controlling-the-future-of-rpc-systems/
+https://apfelmus.nfshost.com/articles/lazy-eval-modular-code.html
+https://francistoth.github.io/2020/02/12/variance.html
+https://increment.com/software-architecture/primer-on-functional-architecture/
+https://zach-albia.github.io/posts/my-fp-journey
+https://semantic-domain.blogspot.com/2020/02/thought-experiment-introductory.html
 
