@@ -103,6 +103,8 @@ http://self-issued.info/docs/draft-ietf-oauth-v2-bearer.html
 https://gitter.im/finagle/finch?at=5ac4f235e4ff28713aa939e7
 
 https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/
+#secure conf file
+https://stackoverflow.com/questions/16241165/how-to-use-typesafes-config-in-scala-with-encrypted-passwords
 
 ===================================== STORY ===============================================================================
 https://adrianfilip.com/2020/03/15/spring-to-zio-101/amp/
