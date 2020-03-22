@@ -118,3 +118,7 @@ https://increment.com/software-architecture/primer-on-functional-architecture/
 https://zach-albia.github.io/posts/my-fp-journey
 https://semantic-domain.blogspot.com/2020/02/thought-experiment-introductory.html
 
+================= big data ==============
+https://www.quora.com/Where-can-one-get-sample-datasets-for-Big-Data
+https://www.pewresearch.org/download-datasets/ //pass $Root1080amusuk
+
