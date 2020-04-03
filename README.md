@@ -117,6 +117,7 @@ https://francistoth.github.io/2020/02/12/variance.html
 https://increment.com/software-architecture/primer-on-functional-architecture/
 https://zach-albia.github.io/posts/my-fp-journey
 https://semantic-domain.blogspot.com/2020/02/thought-experiment-introductory.html
+https://www.cs.rhul.ac.uk/home/zhaohui/ //the inventor of proof assistant theory?? inspiration of idris, agda, and coq??
 
 ================= big data ==============
 https://www.quora.com/Where-can-one-get-sample-datasets-for-Big-Data
