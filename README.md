@@ -123,3 +123,6 @@ https://www.cs.rhul.ac.uk/home/zhaohui/ //the inventor of proof assistant theory
 https://www.quora.com/Where-can-one-get-sample-datasets-for-Big-Data
 https://www.pewresearch.org/download-datasets/ //pass $Root1080amusuk
 
+=================== PHILOSOPHY of SCALA ===========================================================
+https://web.archive.org/web/20131020034539/http://blog.enfranchisedmind.com/2009/05/scala-not-functional/
+
